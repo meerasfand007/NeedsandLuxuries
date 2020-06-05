@@ -1,0 +1,337 @@
+                            .navbar {
+                                background-color: #DCDCDC !important;
+                            }
+                            
+                            h1 {
+                                text-decoration: underline;
+                                font-weight: bold;
+                                color: black;
+                                text-align: center;
+                                margin-top: 30px;
+                                text-shadow: 4px 4px 8px gray;
+                            }
+                            
+                            .logo1 {
+                                width: 60px;
+                            }
+                            
+                            .nav-link {
+                                color: black !important;
+                                font-weight: bold;
+                            }
+                            
+                            .fa-shopping-cart,
+                            .fa-user {
+                                font-size: 35px !important;
+                            }
+                            
+                            .mainCard {
+                                margin-top: 40px;
+                                display: flex;
+                                direction: row;
+                                justify-content: space-around;
+                                flex-wrap: wrap;
+                            }
+                            
+                            .fa-thumbs-up,
+                            .fa-truck,
+                            .fa-laptop {
+                                font-size: 35px !important;
+                                margin-right: 10px;
+                                margin-left: 10px;
+                            }
+                            
+                            .card1,
+                            .card3,
+                            .card4 {
+                                display: flex;
+                                background-color: #CCD1D196;
+                                width: 300px;
+                                height: 80px;
+                                box-shadow: 4px 4px 8px gray;
+                                justify-content: center;
+                                align-items: center;
+                                border-radius: 2px;
+                                margin-top: 10px;
+                            }
+                            
+                            .map {
+                                text-decoration: underline;
+                                font-weight: bold;
+                                color: black;
+                                text-align: center;
+                                margin-top: 30px;
+                                text-shadow: 4px 4px 8px gray;
+                            }
+                            
+                            .map-img {
+                                display: block;
+                                margin: 20px auto 10px auto;
+                            }
+                            
+                            .grocery>h3 {
+                                text-decoration: underline;
+                                font-weight: bold;
+                                color: black;
+                                text-align: center;
+                                margin-top: 30px;
+                                text-shadow: 4px 4px 8px gray;
+                            }
+                            
+                            .cosmetics>h3 {
+                                text-decoration: underline;
+                                font-weight: bold;
+                                color: black;
+                                text-align: center;
+                                margin-top: 30px;
+                                text-shadow: 4px 4px 8px gray;
+                            }
+                            
+                            .bakery>h3 {
+                                text-decoration: underline;
+                                font-weight: bold;
+                                color: black;
+                                text-align: center;
+                                margin-top: 30px;
+                                text-shadow: #DCDCDC #DCDCDC;
+                            }
+                            
+                            .grocery,
+                            .Cosmetics,
+                            .bakery {
+                                margin-top: 50px;
+                                width: 85%;
+                                margin-left: auto;
+                                margin-right: auto;
+                            }
+                            
+                            .container {
+                                margin-top: 30px;
+                            }
+                            
+                            .card {
+                                height: auto;
+                                width: 200px;
+                                border: none !important;
+                            }
+                            
+                            .card-text {
+                                font-weight: bold;
+                            }
+                            
+                            .btn {
+                                background-color: #CCD1D196 !important;
+                                color: black !important;
+                                border: none;
+                                width: 100%;
+                            }
+                            
+                            .btn:hover {
+                                background-color: cornflowerblue !important;
+                                color: black !important;
+                                font-weight: bold;
+                            }
+                            
+                            .footer {
+                                background-color: #CCD1D196;
+                                color: black;
+                                font-weight: bold;
+                                display: flex;
+                                direction: row;
+                                padding-top: 15px;
+                                flex-wrap: wrap;
+                            }
+                            
+                            .footer>h5 {
+                                margin-left: 300px;
+                                margin-right: auto;
+                            }
+                            
+                            .footer>p {
+                                position: relative;
+                                left: 10px;
+                            }
+                            
+                            .footer>a {
+                                margin-right: 20px;
+                                color: black;
+                            }
+                            
+                            .logo2 {
+                                width: 50px;
+                            }
+                            
+                            .go-to-top {
+                                position: fixed;
+                                bottom: 130px;
+                                right: 50px;
+                                border: none;
+                                width: 50px;
+                            }
+                            
+                            .tagLine {
+                                text-align: center;
+                                margin-top: 20px;
+                                font-size: xx-large;
+                                font-weight: bolder;
+                            }
+                            
+                            .marquee {
+                                background-color: #DCDCDC;
+                                color: black;
+                                font-size: 14px;
+                                font-weight: bold;
+                                position: relative;
+                                left: 175px;
+                                top: 5px;
+                                padding-bottom: 5px;
+                                width: 70%;
+                                direction: left;
+                                height: 25px;
+                                vertical-align: baseline;
+                            }
+                            
+                            .aboutus2>h3 {
+                                text-decoration: underline;
+                                font-weight: bold;
+                                color: black;
+                                text-align: center;
+                                margin-top: 30px;
+                                text-shadow: #DCDCDC #DCDCDC;
+                            }
+                            
+                            .aboutus2>p {
+                                text-align: justify;
+                                width: 70%;
+                                margin: 30px auto 10px auto;
+                                font-size: 17px;
+                            }
+                            /* Contact Page */
+                            
+                            .contactPage1 {
+                                display: flex;
+                                flex-direction: row;
+                                justify-content: space-between;
+                                flex-wrap: wrap;
+                            }
+                            
+                            .contactForm {
+                                margin-top: 20px;
+                                width: 400px;
+                                margin-left: 25px;
+                                margin-bottom: 50px;
+                                border: 2px solid #DCDCDC;
+                                padding: 10px;
+                            }
+                            
+                            .contactBtn {
+                                width: 20%;
+                            }
+                            
+                            .contactP {
+                                font-size: xx-large;
+                                font-weight: bold;
+                                text-decoration: underline;
+                            }
+                            
+                            .IPcontact {
+                                width: 50%;
+                                height: 150px;
+                            }
+                            
+                            .Aboutus {
+                                width: 50%;
+                                margin-top: 20px;
+                                margin-right: 30px;
+                                text-align: justify;
+                                font-size: 17px;
+                            }
+                            
+                            .contactimg {
+                                display: block;
+                                margin: 20px auto 20px auto;
+                            }
+                            
+                            .getintouch {
+                                margin-left: 25px;
+                                margin-top: 33px;
+                            }
+                            
+                            .fa-address-book-o,
+                            .fa-map-marker,
+                            .fa-inbox {
+                                font-size: 20px !important;
+                                color: black;
+                                font-weight: lighter;
+                            }
+                            /* media  */
+                            
+                            @media screen and (max-width: 850px) {
+                                .map-img {
+                                    width: 250px;
+                                }
+                                .marquee {
+                                    width: 80%;
+                                    left: 30px;
+                                }
+                                .card1,
+                                .card3,
+                                .card4 {
+                                    width: 80%;
+                                }
+                                form {
+                                    width: 90%;
+                                }
+                                textarea {
+                                    width: 100%;
+                                }
+                                .contactBtn {
+                                    width: 100%;
+                                }
+                                .contactForm {
+                                    border: none;
+                                }
+                                .Aboutus {
+                                    width: 90%;
+                                }
+                                .contactimg {
+                                    width: 100%;
+                                }
+                                .info {
+                                    font-size: xx-small;
+                                }
+                            }
+                            
+                            @media screen and (max-width: 577px) {
+                                .cosmetics,
+                                .grocery,
+                                .bakery {
+                                    width: 50%;
+                                    margin: 10px auto 10px auto;
+                                }
+                                .marquee {
+                                    width: 80%;
+                                    left: 25px;
+                                }
+                                .go-to-top {
+                                    position: fixed;
+                                    bottom: 170px;
+                                    left: 10px;
+                                    border: none;
+                                }
+                                .footer {
+                                    font-size: small;
+                                }
+                                .footer>h5 {
+                                    margin-left: 0px;
+                                    margin-bottom: 15px;
+                                    font-size: large;
+                                }
+                            }
+                            
+                            @media screen and (max-width: 350px) {
+                                h1 {
+                                    font-size: x-large;
+                                    margin-left: 40px;
+                                }
+                            }
